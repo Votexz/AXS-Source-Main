@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "So, I'm not too late..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "No!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're 5 minutes late!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Actually,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I went to get you a present, so i'm forgiven!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "Mm, you look great as always."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "Heh"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "super-star",
+			"text": "Tha..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "confussed",
+			"text": "Oh!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What?"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "super-star",
+			"text": "Do you remember the first time you kissed me in this park)?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "And will you forget this)?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I think not, such warm memories..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ehh, there were times"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "Well, let's start the battle? Like in the good old days)?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Great idea!"
+		}
+	]
+}

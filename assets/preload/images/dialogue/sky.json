@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-380,
+		-280
+	],
+	"scale": 0.399999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "",
+			"idle_name": "talk"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-12
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "",
+			"idle_name": "what"
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"idle_name": "lovely_talk",
+			"anim": "love_talk",
+			"loop_offsets": [
+				-1,
+				-12
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"idle_name": "confused",
+			"anim": "confussed",
+			"loop_offsets": [
+				-1,
+				-12
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"idle_name": "starwalker",
+			"anim": "super-star",
+			"loop_offsets": [
+				-1,
+				-12
+			]
+		}
+	],
+	"image": "SKY_Dialogue"
+}

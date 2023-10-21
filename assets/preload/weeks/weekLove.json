@@ -1,0 +1,44 @@
+{
+	"storyName": "Love Forever",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "axs",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Baka",
+			"skyOG",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Broadcasting",
+			"agoti",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"My-sweets",
+			"skyOG",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekLove"
+}

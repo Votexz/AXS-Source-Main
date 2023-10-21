@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKY_Dialogue.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confused0000" x="100" y="100" width="1045" height="1085"/>
+	<SubTexture name="lovely_talk0000" x="1245" y="100" width="1045" height="1072"/>
+	<SubTexture name="starwalker0000" x="2390" y="100" width="1045" height="1078"/>
+	<SubTexture name="talk0000" x="100" y="1285" width="1048" height="1081"/>
+	<SubTexture name="what0000" x="1248" y="1285" width="1058" height="1079"/>
+</TextureAtlas>

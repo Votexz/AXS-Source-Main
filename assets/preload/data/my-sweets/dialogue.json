@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "confussed",
+			"text": "Wow, it's already cool at night.. I didn't even expect it to be so cold.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Y-yes, you're right.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "My gloves are frozen, and they make it harder for my hands to warm up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "And this makes me colder."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "super-star",
+			"text": "Can we go home? Just when I see what you gave me)"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "ag",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "You're right, but let's do the last battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "love_talk",
+			"text": "Heh, good)!"
+		}
+	]
+}
