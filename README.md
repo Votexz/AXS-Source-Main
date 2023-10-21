@@ -103,6 +103,10 @@ _____________________________________
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
  * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
 
+##BPS Team:
+We Make this mod!
+thanks if you playing!
+
 ## Other gameplay features:
 * When the enemy hits a note, their strum note also glows.
 * Lag doesn't impact the camera movement and player icon scaling anymore.
@@ -110,3 +114,4 @@ _____________________________________
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
 * You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
+
