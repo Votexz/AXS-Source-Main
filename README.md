@@ -103,7 +103,7 @@ _____________________________________
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
  * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
 
-##BPS Team:
+## BPS Team:
 We Make this mod!
 thanks if you playing!
 
